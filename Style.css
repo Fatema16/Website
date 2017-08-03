@@ -1,0 +1,27 @@
+h1{
+  font-size: 100px;
+  font-family:"Mistral" cursive;
+
+}
+.btn-twitter{
+  background: #00acee;
+  border-color: #314776;
+}
+.btn-facebook{
+  background: #4868ac;
+  border-color: #314776;
+}
+.btn-pinterest{
+  background: #b62f26;
+  border-color: #b62f26;
+}
+.jumbotron{
+  background-image: url('images/fruit-and-veg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+#mission {
+  background: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+}
